@@ -1,3 +1,6 @@
+> **Repositorio archivado.** Este proyecto continúa, integrado con el front-end y el resto del proyecto formativo, en
+> https://github.com/13vale-blip/Danna_jimenez (carpeta `API-REST/`).
+
 # API REST · Node.js + Express + MongoDB Atlas
 
 Evidencia **GA7-220501096-AA5-EV04 – API del proyecto**
